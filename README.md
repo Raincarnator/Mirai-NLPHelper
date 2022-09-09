@@ -2,9 +2,9 @@
 
 > 适用于 [Mirai](https://github.com/mamoe/mirai) 的用于收集NLP语言训练数据的插件。
 
-### [Github Project]()
-### [Release]()
-### [MiraiForum]()
+### [Github Project](https://github.com/Mitr-yuzr/Mirai-NLPHelper)
+### [Release](https://github.com/Mitr-yuzr/Mirai-NLPHelper/releases/tag/1.0)
+### [MiraiForum](https://mirai.mamoe.net/topic/1596/nlphelper-%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E4%B8%93%E7%94%A8%E6%8F%92%E4%BB%B6)
 
 ## 介绍
 
@@ -38,7 +38,7 @@
 
 ## 快速使用
 
-- 从 [Release]() 下载本插件并放置于mcl的plugins目录下
+- 从 [Release](https://github.com/Mitr-yuzr/Mirai-NLPHelper/releases/tag/1.0) 下载本插件并放置于mcl的plugins目录下
 - 登录机器人后，在控制台输入以下命令开始采集数据
     ```shell
     /NLPHelper addGroup 你需要采集数据的群
